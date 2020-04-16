@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "@tiagonapoli/opentracing-alternate-mock",
   "version": "0.0.0",
-  "description": "",
+  "description": "Opentracing mocks for typescript",
   "main": "build/index.js",
   "scripts": {
     "format": "prettier --config ./.prettierrc --write \"**/*.{ts,js,json}\"",
@@ -19,7 +19,9 @@
   "files": [
     "build"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "opentracing": "^0.14.4"
+  },
   "devDependencies": {
     "@types/jest": "^25.1.4",
     "@types/node": "^12.0.0",
