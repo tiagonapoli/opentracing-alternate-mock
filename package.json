@@ -1,6 +1,6 @@
 {
   "name": "@tiagonapoli/opentracing-alternate-mock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Opentracing mocks for typescript",
   "main": "build/index.js",
   "scripts": {
