@@ -7,6 +7,7 @@
     "url" : "https://github.com/tiagonapoli/opentracing-alternate-mock.git"
   },
   "main": "build/index.js",
+  "typings": "build/index.d.ts",
   "scripts": {
     "format": "prettier --config ./.prettierrc --write \"**/*.{ts,js,json}\"",
     "lint": "eslint ./src --cache --ext .ts --config .eslintrc",
