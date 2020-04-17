@@ -2,6 +2,10 @@
   "name": "@tiagonapoli/opentracing-alternate-mock",
   "version": "0.0.2",
   "description": "Opentracing mocks for typescript",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/tiagonapoli/opentracing-alternate-mock.git"
+  },
   "main": "build/index.js",
   "scripts": {
     "format": "prettier --config ./.prettierrc --write \"**/*.{ts,js,json}\"",
